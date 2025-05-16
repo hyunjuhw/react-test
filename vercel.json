@@ -1,0 +1,6 @@
+{
+    "routes": [
+        {"hadnle": "filesystem"},
+        {"src": "/(.*)", "dest": "/index.html"}
+    ]
+}
